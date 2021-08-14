@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 void	nrml_st_2(char *s, int *i, t_token **tok)
 {
@@ -20,7 +20,7 @@ void	nrml_st_2(char *s, int *i, t_token **tok)
 			(*tok)->tkn = c_ty;
 		if (s[*i + 1] != '\0')
 			new_token(tok);
-	}	
+	}
 }
 
 void	nrml_state(int *i, t_token **tok, t_lexer **lex)

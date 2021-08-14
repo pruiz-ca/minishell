@@ -51,7 +51,7 @@ $(NAME):		$(OBJS)
 				@echo -e "$(GRN) ==> Success!$(NOCOL)"
 				@echo -e -n "$(ORG)[Libft]:\t$(NOCOL)"
 				@make -s -C lib/
-				@echo -e -n "$(ORG)[Linking]\t$(NOCOL)"
+				@echo -e -n "$(ORG)[Linking]:\t$(NOCOL)"
 				@$(CC) $(FLAGS) $(EXTRA) $(SRCS) $(HEADER) $(LIBS) -o $(NAME)
 				@echo -e "$(GRN)==> Success!$(NOCOL)"
 

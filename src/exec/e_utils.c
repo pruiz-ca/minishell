@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 static void	free_bin(char **ar, char *f1, char *f2, char **ar2)
 {

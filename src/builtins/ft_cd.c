@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 static void	ft_getdirs(char **args, char **old_dir, char **new_dir)
 {

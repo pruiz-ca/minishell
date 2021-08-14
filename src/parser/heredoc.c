@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 static void	process_herestring(char *line, int fd, const char *del)
 {

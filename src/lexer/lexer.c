@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 t_token	*init_lexer(t_lexer **lex, char *s)
 {

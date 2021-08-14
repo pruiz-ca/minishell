@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 void	ft_exchild(t_cmdito *tmp, int fd[2], int old_fd[2])
 {

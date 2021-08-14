@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 static void	deal_curly(t_lexer **lex, int *i)
 {

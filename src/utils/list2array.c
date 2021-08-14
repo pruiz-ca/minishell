@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 static int	ft_getlistlen(t_env *env)
 {

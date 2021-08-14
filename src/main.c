@@ -1,4 +1,4 @@
-#include "../inc/minishell.h"
+#include "minishell.h"
 t_shell	g_sh;
 
 static void	init_minishell(int argc, char **argv, char **envp)

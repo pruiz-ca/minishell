@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 static int	ft_redir_in(t_io *tmp, int inb)
 {

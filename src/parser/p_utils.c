@@ -1,4 +1,4 @@
-#include "../../inc/minishell.h"
+#include "minishell.h"
 
 char	**append_arg(char *line, char **ar, int *n)
 {
