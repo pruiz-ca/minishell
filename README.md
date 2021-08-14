@@ -1,5 +1,5 @@
 # 🐚 Minishell
-A personal shell, made with rorozco- ✨
+A personal shell. Made with rorozco- ✨
 
 ![minishell test](https://user-images.githubusercontent.com/74905890/129444770-69e35ff8-0c4c-4bb6-b515-3a8062d3fc61.gif)
 
