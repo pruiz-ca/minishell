@@ -26,7 +26,3 @@ A personal shell, made with rorozco- ✨
 2. Run ./minishell
 
 ![minishell make](https://user-images.githubusercontent.com/74905890/129443775-e41d93a5-0724-4435-8289-254476cfcf7b.gif)
-
-## Extra
-This shell was made using readline and mimicking the way bash tokenize and parse the input.
-
